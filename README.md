@@ -1,3 +1,7 @@
+# Hosted Link
+
+https://manishbittu0999.github.io/FE-Omdb-Api/
+
 # IMDB Clone
 
 IMDB clone which allows users to search for movies, see more info about the movie and add them to favoutires
